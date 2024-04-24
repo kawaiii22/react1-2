@@ -21,4 +21,15 @@ export default function Clock(props){
         </div>
     )
 }
-expor
+
+class Hello extends React.Component{
+    
+}
+function Pomponent(props){
+    reurn 
+    {<>
+        <h1> 안녕,{props.name}</h1>
+    </>
+
+    }
+}
